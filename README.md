@@ -24,7 +24,7 @@
 - 🛠️ Contribute to open-source projects
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeetOza28&show_icons=true&theme=radical)
 
 ### 🎧 Fun Fact
 - 🎵 I love listening to music while coding!
