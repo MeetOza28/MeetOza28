@@ -38,8 +38,9 @@
 ## 🛠 Languages & Tools
 
 ### Backend & Frameworks
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" height="48" style="margin-left:10px;" />
 </p>
 
 ### Database & ORM
@@ -58,52 +59,6 @@
 </p>
 
 <br />
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 Property Rental System
-> **AdonisJS · Node.js · MySQL · Stripe · Bull Queue · VineJS · Japa**
-
-Built a production-level scalable backend with:
-- ✅ JWT + RBAC Authentication system
-- ✅ Advanced filtering (size, price, amenities, ward, train station radius)
-- ✅ Geospatial / radius-based property search
-- ✅ Stripe payment integration with subscription & invoice history
-- ✅ Bull Queue for background jobs & email notifications
-- ✅ Rate limiting, database indexing & query optimization
-- ✅ Property comparison, recommendations & inquiry system
-- ✅ i18n (Internationalization & Localization)
-- ✅ Comprehensive API test coverage using **Japa**
-- ✅ Custom AdonisJS geo-search package (`adonis-geo-search`)
-
----
-
-### 🚑 SurakshaPath – Real Time Ambulance Tracking
-> **Node.js · Express.js · React.js · Firebase · MongoDB · Google Maps API**
-
-- ✅ GPS-based live ambulance tracking
-- ✅ Automated traffic routing & real-time communication
-- ✅ Web dashboard with Google Maps API integration
-- ✅ Firebase Realtime Database for live updates
-
----
-
-## 💼 Internship Highlights (Jan 2026 – Apr 2026)
-*AppStoneLab Technologies LLP, Surat*
-
-During my internship I worked extensively on:
-
-- 🔧 **Node.js & Express**: Async patterns, HTTP server, file handling, JWT auth
-- 🏗️ **AdonisJS**: Full framework mastery — routing, controllers, middleware, validation (VineJS), ORM (Lucid), migrations, views, auth
-- 🗃️ **MySQL**: Indexing, joins, aggregate functions, query optimization
-- 💳 **Stripe Integration**: Payments, subscriptions, upgrades, invoice history
-- 📦 **Bull Queue**: Background job processing in AdonisJS
-- 🌍 **i18n**: Internationalization & localization
-- 🧪 **Testing**: Japa framework — unit tests, lifecycle hooks, async testing
-- 📦 **Open Source**: Built and published custom AdonisJS packages
-- 🗺️ **Geo-Search Package**: Custom location-based search package for AdonisJS
 
 ---
 
