@@ -12,12 +12,6 @@
 
 [![MeetOza28](https://raw.githubusercontent.com/MeetOza28/MeetOza28/main/icons/github_cover.png)](https://linkedin.com/in/meetoza28)
 
-<p align="center">
-  <a href="https://linkedin.com/in/meetoza28">
-    <img src="https://raw.githubusercontent.com/MeetOza28/MeetOza28/main/icons/github_cover.png" />
-  </a>
-</p>
-
 ## I'm a Backend Developer, Open Source Contributor, and Tech Enthusiast!
 
 - 🔭 Currently building scalable backend systems using **AdonisJS & Node.js**.
@@ -33,11 +27,11 @@
 
 ## 🌐 Connect with me:
 
-[<img align="left" alt="meetoza28 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MeetOza28 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="meetoza28 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" />][github]
+[<img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
 
-<br />
+<br/><br/>
 
 ---
 
