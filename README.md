@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetOza28&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeetOza28&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetOza28&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
