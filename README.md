@@ -16,7 +16,7 @@
 
 - 🔭 Currently building scalable backend systems using **AdonisJS & Node.js**.
 - 🌱 Exploring **Full-Stack Development** and **AI integrations** into web apps.
-- 📦 Created **adonis-geo-search** — a custom AdonisJS package for geospatial queries.
+- 📦 Created **[@meetoza28/adonis-geo-search](https://www.npmjs.com/package/@meetoza28/adonis-geo-search)** — a high-performance AdonisJS geospatial search package published on npm.
 - 🧠 Passionate about **clean architecture**, **database optimization**, and **performance tuning**.
 - 🔐 Experienced in **JWT authentication**, **RBAC**, and **Stripe payment integration**.
 - 📄 Published a **research paper on IEEE** — *Cyber Secure Academic Examination Scheme Using Blockchain*.
